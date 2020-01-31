@@ -21,6 +21,8 @@
 - [License](#license)
 
 ## Demos
+- [Strongkey Basic Javascript Demo](https://fido2.strongkey.com/basicserver) - A simple javascript application to demonstarte FIDO2.
+ - [Strongkey Angular Demo](https://fido2.strongkey.com/) - A simple angular application to demonstarte FIDO2 along with user key management.
  - [FIDO: WebAuthn Demo](https://github.com/fido-alliance/webauthn-demo) - FIDO Alliance WebAuthn Demo
  - [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) - A Demonstration of the WebAuthn Specification https://webauthn.io/
  - [Mastercard: WebAuthn Demo](https://github.com/Mastercard/fido2-rp-spring) - Webauthn/FIDO2 Relying Party Reference Implementation
@@ -34,8 +36,7 @@
  - [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework)
  - [Yuriy Ackermann: FIDO2 Demos](https://herrjemand.github.io/FIDO2WebAuthnSeries/) - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@herrjemand/introduction-to-webauthn-api-5fd1fb46c285)
  - [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
- - [Strongkey Basic Javascript Demo](https://fido2.strongkey.com/basicserver) - A simple javascript application to demonstarte FIDO2.
- - [Strongkey Angular Demo](https://fido2.strongkey.com/) - A simple angular application to demonstarte FIDO2 along with user key management.
+ 
  
  ## Enterprise Server
   - `FIDO CERTIFIED™` [StrongKey: FIDO2 Server](https://github.com/StrongKey/fido2) - Open-source Enterprise FIDO2 server with high availability, featuring the FIDO2 standard.
